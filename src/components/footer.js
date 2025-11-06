@@ -5,7 +5,7 @@ export const Footer = () => {
     <footer class="relative text-center text-black-400 lg:text-center md:text-center sm:text-center">
         <div className="my-4">
           <h3 className="footer-content font-semibold text-black-200">
-            {" "} Crypto Dashboard by Yash{" "}
+            {" "} Crypto Dashboard {" "}
             
                       </h3>
         </div>
